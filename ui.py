@@ -2,7 +2,6 @@ import streamlit as st
 import os
 import sys
 import tempfile
-import time
 
 # Add parent directory to path to find main_logic
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
